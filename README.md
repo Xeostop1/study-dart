@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+실습 6
+출석체크 프로그램
+
+실습 8 하는중 
